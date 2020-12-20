@@ -1,12 +1,11 @@
 ## Outlook 2 Factor
 ---
 
-##### Turn two-step verification on or off
+#### Turn two-step verification on or off
 ###### 1.Go to the Security basics page and sign in with your Microsoft account.
-
-###### 2.Select More security options.
-
-###### 3.Under Two-step verification, choose Set up two-step verification to turn it on, or choose Turn off two-step ###### 4.verification to turn it off.
+###### 2.Select **More security options**.
+###### 3.Under **Two-step** verification, choose **Set up two-step verification** to turn it on, or choose **Turn off two-step verification** to turn it off.
+###### 4.Follow the instructions
 
 Follow the instructions.
 
