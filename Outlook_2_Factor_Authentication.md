@@ -1,3 +1,3 @@
 ### Outlook 2 Factor
 
-![text 1](setup.png)
+![text 1](img/setup.png)
