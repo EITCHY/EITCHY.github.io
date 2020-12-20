@@ -1,8 +1,7 @@
 ## Outlook 2 Factor
-
 ---
 
-##### 
+##### setp 1
 ![pig 1](img/setup.png)
 
 ![pig 1](img/setup2.png)
